@@ -16,3 +16,5 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Create React-App wants to be sure that all bases are equalized when it is run on different browsers */
